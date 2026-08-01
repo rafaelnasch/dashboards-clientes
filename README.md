@@ -12,6 +12,7 @@ Abre em qualquer navegador, sem servidor, sem build e sem dependência externa.
 | [`leticia-lang.html`](leticia-lang.html) | Prof. Letícia Lang | julho/2026 |
 | [`elen-tolentino.html`](elen-tolentino.html) | Dra. Elen Tolentino | julho/2026 |
 | [`letras-poesia.html`](letras-poesia.html) | Letras & Poesia | julho/2026 |
+| [`unlock.html`](unlock.html) | Unlock Your English Academy | julho/2026 |
 
 As páginas são um retrato do período indicado em cada relatório e não se atualizam sozinhas.
 Para atualizar, regerar o HTML e commitar por cima.
